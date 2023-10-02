@@ -9,6 +9,6 @@ In this paper, we introduce cameras view-frame placement problem (denoted by CFP
 
 ## Data:
 
-Within the "instance" directory, there are subfolders named according to the particular problem we address in our paper. The "Demand" subfolder contains the generated request used in our tests, while the "realization" subfolder stores produced realzation vectors.
+Within the "instance" directory, there are subfolders named according to the particular problem we address in our paper. The "Demand" subfolder contains the generated request used in our tests, while the "realization" subfolder stores produced realzation vectors.Each instance is stored in a pickle file, with its name containing two descriptive numbers. The first number indicates the count of requests, while the second represents the replication number. 
 
 For a detailed procedure on instance generation, refer to our paper. [Click](https://optimization-online.org/wp-content/uploads/2023/04/ParkBansal-ArXiv-4-10-2023.pdf)
