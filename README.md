@@ -22,6 +22,4 @@ import pickle
 data = pd.read_pickle('./demand_10_0.pickle')
 
 
-
-
-For a detailed procedure on instance generation, refer to our paper. (Link to paper: [Click](https://optimization-online.org/wp-content/uploads/2023/04/ParkBansal-ArXiv-4-10-2023.pdf))
+```For a detailed procedure on instance generation, refer to our paper. (Link to paper: [Click](https://optimization-online.org/wp-content/uploads/2023/04/ParkBansal-ArXiv-4-10-2023.pdf))
