@@ -15,11 +15,10 @@ Within the "instance" directory, there are subfolders named according to the par
 
 To load the `demand_10_0.pickle` dataset into your workspace using Python, follow the example code provided below:
 
-```import pandas as pd
-
+```
+import pandas as pd
 import pickle
 
 data = pd.read_pickle('./demand_10_0.pickle')
-
-
-```For a detailed procedure on instance generation, refer to our paper. (Link to paper: [Click](https://optimization-online.org/wp-content/uploads/2023/04/ParkBansal-ArXiv-4-10-2023.pdf))
+```
+For a detailed procedure on instance generation, refer to our paper. (Link to paper: [Click](https://optimization-online.org/wp-content/uploads/2023/04/ParkBansal-ArXiv-4-10-2023.pdf))
